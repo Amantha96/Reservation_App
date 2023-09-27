@@ -25,6 +25,4 @@ Welcome to the React Node.js Booking App! This powerful MERN stack application i
 4. Start the server and the client
 5. Begin managing reservations effortlessly!
 
-📚 Detailed documentation and usage guide coming soon!
-
-Feel free to contribute, report issues, or suggest improvements. Happy booking! 📆✨
+ Report issues, or suggest improvements. Happy booking! 📆✨
