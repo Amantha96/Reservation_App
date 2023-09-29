@@ -1,4 +1,16 @@
-📅 Full-Stack MERN Reservation App 🚀
+<h1>📅 Full-Stack MERN Reservation App 🚀</h1>
+
+
+<table>
+  <tr>
+    <td align="center"><img alt="coding" width="400" src="https://github.com/Amantha96/Reservation_App/blob/main/Reservation%20Application%201.png"></td>
+    <td align="center"><img alt="coding" width="400" src="https://github.com/Amantha96/Reservation_App/blob/main/Reservation%20Application%202.png"></td>
+    <td align="center"><img alt="coding" width="400" src="https://github.com/Amantha96/Reservation_App/blob/main/Reservation%20Application%203.png"></td>
+  </tr>
+</table>
+
+
+
 
 Welcome to the React Node.js Booking App! This powerful MERN stack application is designed for seamless reservations and scheduling. Whether you're managing bookings for a restaurant, hotel, or any service, we've got you covered.
 
@@ -26,3 +38,6 @@ Welcome to the React Node.js Booking App! This powerful MERN stack application i
 5. Begin managing reservations effortlessly!
 
  Report issues, or suggest improvements. Happy booking! 📆✨
+
+ 
+
