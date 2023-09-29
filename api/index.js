@@ -1,10 +1,10 @@
 import express from 'express';
 import dotenv from "dotenv"
 import mongoose from 'mongoose';
-import authRoute from "./api/routes/auth.js";
-import userRoute from "./api/routes/users.js";
-import hotelRoute from "./api/routes/hotels.js";
-import roomRoute from "./api/routes/rooms.js";
+import authRoute from "./routes/auth.js";
+import userRoute from "./routes/users.js";
+import hotelRoute from "./routes/hotels.js";
+import roomRoute from "./routes/rooms.js";
 import cookieParser from 'cookie-parser';
 
 
