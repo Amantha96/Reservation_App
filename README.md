@@ -12,7 +12,7 @@
 
 
 
-Welcome to the React Node.js Booking App! This powerful MERN stack application is designed for seamless reservations and scheduling. Whether you're managing bookings for a restaurant, hotel, or any service, we've got you covered.
+Welcome to the React Node.js Booking App! This powerful MERN stack application is designed for seamless reservations and scheduling. Whether you're managing bookings for a hotel, or any service, we've got you covered.
 
 🌟 Key Features:
 - User-friendly booking interface
